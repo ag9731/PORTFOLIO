@@ -1,0 +1,22 @@
+.hr{
+    width:100%;
+    color:solid black;
+    margin-top:10px;
+    height:100%;
+}
+table {
+    border:1px solid black;
+    width:100%;
+  }
+th {
+    border:1px solid black;
+    width:100%;
+  }
+td {
+    border:1px solid black;
+    width:100%;
+  }
+.education{
+    display: flex;
+    justify-content: center;
+}
